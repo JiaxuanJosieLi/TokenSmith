@@ -33,6 +33,7 @@ data/
 *.pkl
 index/cache/
 index/partial_sections
+index/sections/*.json
 
 # --- Model files ---
 models/
